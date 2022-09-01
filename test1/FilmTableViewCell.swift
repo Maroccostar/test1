@@ -28,4 +28,4 @@ class FilmTableViewCell: UITableViewCell {
         super.layoutSubviews()
         titleLabel.pin.horizontally(16).vertically()
     }
-}
+} 
