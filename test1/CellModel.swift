@@ -1,7 +1,7 @@
 
 import Foundation
 
-struct CellData {
+struct CellData: Hashable {
     var title = String()
     var year = Int()
 }
